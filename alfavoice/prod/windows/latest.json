@@ -1,11 +1,11 @@
 {
-  "version": "0.1.19",
+  "version": "0.1.20",
   "notes": "",
-  "pub_date": "2026-03-28T09:40:16.415Z",
+  "pub_date": "2026-03-28T20:51:13.439Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/myshik15reg/AlfaVoice-updates/releases/download/v0.1.19/AlfaVoice_0.1.19_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdVRvRHIvR0xRR1ZWTmRkcW5EMS8yb3RJTmZOK1AvL0NaakZHWmZGblBIaEhpTXdsSVJiSXNqY3Exd1NDdjIrb2I4bzdlbXhoRSs0ZitXWmxSL0J5TGx2WkVTNU9iVnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjkwNzczCWZpbGU6QWxmYVZvaWNlXzAuMS4xOV94NjQtc2V0dXAuZXhlCkxqVEFKKzlvOEpWRlJ0c21DbTJjYVJaMHhIZHd0UmdjR0d5UkFDaTFaeld6OGJPRlh0dm95UUJLV2VSRVJZaXpidzlRS25MckRkckwxRVFHZ2JhRENnPT0K"
+      "url": "https://github.com/myshik15reg/AlfaVoice-updates/releases/download/v0.1.20/AlfaVoice_0.1.20_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdVRvRHIvR0xRR1hOV0JxVkNMYndTclduSjdOUCtSK0p1Y2lwZGZWNXFDWi9Nc1pwbmMyV0Nvb1loVHhCM1MyNld3d2szbUx2V3JKNGVzN0ZlWHJIVjhJMXcvTDhiVUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzI2NDYzCWZpbGU6QWxmYVZvaWNlXzAuMS4yMF94NjQtc2V0dXAuZXhlCjV6a3JtdmJra290TERjRHBBWmtGQmNnRE9IWDdMWTBFVjhPcy9hL0hqdVpWdklwekc0QWNPdDh0akVqM0oyUnlVaEtvZ0lyNWU4OFdLSnFNb1dMeUNnPT0K"
     }
   }
 }
