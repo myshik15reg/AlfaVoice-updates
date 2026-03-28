@@ -1,0 +1,11 @@
+{
+  "version": "0.1.18",
+  "notes": "",
+  "pub_date": "2026-03-28T09:35:56.009Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/myshik15reg/AlfaVoice-updates/releases/download/v0.1.18/AlfaVoice_0.1.18_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdVRvRHIvR0xRR2N6QUdUazZGeENpcnpvVkEwTFlSZDQ1RnY0WjRoWC9pcmVjNEtMM0hFVTFwdm54c2kvOEkzdXBHU1IyZ2pHVkJycmFQb0dmYXYyU1E0a0phRE5FclFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjkwMzg5CWZpbGU6QWxmYVZvaWNlXzAuMS4xOF94NjQtc2V0dXAuZXhlCkVRTVh0TlBtcTI5U0NveE9KN2Z4a3R3dzZrUnd0TFFUdVB3N1FNcnpkQU1objd2QkhYSDJpQWxxTThVRmhDVVVWTVAwRE53TFBrQVhPNmhUWHdBWUJ3PT0K"
+    }
+  }
+}
